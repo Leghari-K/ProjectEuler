@@ -22,4 +22,8 @@ My goal is to solve them all some day. Just for fun of it.
 
 I'm using Eclipse/OpenJDK 17 on a Windows 11 i7 box.
 
+
+
+### The source code here is provided for educational/information purposes only. If you intend submitting answers, you are supposed to solve the problems yourself. That said, I don't care what you do with this anyways.
+
 Abdullah Leghari
