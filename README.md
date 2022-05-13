@@ -8,7 +8,8 @@ Solving Project Euler problems in Java
 https://projecteuler.net/progress=Leghari_K
 
 
-
+Java code for problems is under src/problems directory,
+https://github.com/Leghari-K/ProjectEuler/tree/main/src/problems
 
 Playing around Project Euler Problems to keep some fresh blood flowing towards my brain :)
 
