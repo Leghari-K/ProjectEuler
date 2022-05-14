@@ -20,6 +20,10 @@ public class Problem20 {
 	}
 
 	public static void main(String[] args) {
+		long t0, t1; 
+		t0 = System.currentTimeMillis();
+		
+		
 		BigInteger val = getFactorial(100);
 		String str = val.toString();
 		int sum = 0;
@@ -29,6 +33,10 @@ public class Problem20 {
 		}
 		
 		System.out.println(sum);
+		
+		
+		t1 = System.currentTimeMillis();
+		System.out.println("Time = " + (t1 - t0) + " ms");
 
 	}
 
