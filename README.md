@@ -24,6 +24,6 @@ I'm using Eclipse/OpenJDK 17 on a Windows 11 i7 box.
 
 
 
-### The source code here is provided for educational/information purposes only. If you intend submitting answers to the projecteuler.net, you are supposed to solve the problems yourself. That said, I don't care what you do with this anyways.
+### The source code here is provided for educational/information purposes only. If you intend submitting answers to the projecteuler.net, you are supposed to solve the problems yourself.
 
 Abdullah Leghari
