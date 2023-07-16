@@ -20,7 +20,6 @@ public class Problem15 {
 			for(int j = 0; j <= grid; j++) {
 
 				 count= count +1;
-								
 			}
 		}
 		
