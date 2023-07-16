@@ -37,9 +37,6 @@ public class Problem17 {
 	
 	public static int getLetters(int num) {
 
-		
-		
-		
 		String wordStr = "";
 		
 		if (num < 20) {
